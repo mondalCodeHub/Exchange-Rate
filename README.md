@@ -15,7 +15,7 @@ Arup Mondal [@mondalCodeHub](https://www.github.com/mondalCodeHub)
 ![Screenshot (2156)](https://user-images.githubusercontent.com/88100576/201281995-1320dc20-ffad-4d61-8fe1-bd882c135348.png)
 
 
-## Reference
+## Links & API Information
 **icon web url(1):** https://www.svgrepo.com/svg/261072/rupee
 
 **icon web url(2):** : https://pixlok.com/icons/rupee-icon-svg-free-download/
